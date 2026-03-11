@@ -4,4 +4,5 @@ project(C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(main src/main.c
-        src/test.c)
+        src/test.c
+        src/week1/helloWorld.c)
