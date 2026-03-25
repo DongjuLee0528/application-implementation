@@ -14,7 +14,7 @@ int main(void)
     printf("Wow! Really? Are you %d years old?\n", age);
 
     return 0;
-}*/
+}
 #include <stdio.h>
 
 int main(void)
@@ -35,3 +35,4 @@ int main(void)
 
     return 0;
 }
+*/
