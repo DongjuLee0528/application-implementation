@@ -34,7 +34,7 @@ int main(void) {
         j = 1;   // 내부 루프 변수 초기화
         printf("-------------\n");  // 각 단 사이 구분선
     }
-    */
+
 
     int num = 0, j = 9, result = 0;
 
@@ -53,5 +53,6 @@ int main(void) {
         j = 9;
         printf("-------------\n");
     }
+    */
     return 0;
 }
