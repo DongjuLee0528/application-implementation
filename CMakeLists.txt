@@ -18,4 +18,6 @@ add_executable(main src/main.c
         src/week06/test.c
         src/week07/20260415_이동주.c
         src/week07/homework.c
+        src/homeworlk/test.c
+        src/week09/20260429_이동주.c
 )
